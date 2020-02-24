@@ -1,0 +1,34 @@
+baseURL = "https://photo.chaspy.me"
+languageCode = "en-us"
+title = "photo.chaspy.me"
+theme = "hallo"
+
+[Author]
+    name = "Takeshi Kondo"
+
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/chaspy/photo.chaspy.me"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:take.she12@gmail.com"
+    [[params.links]]
+        icon = "instagram"
+        title = "Instagram"
+        url = "https://www.instagram.com/chaspy_/"
+    [[params.links]]
+        icon = "flickr"
+        title = "Flickr"
+        url = "https://www.flickr.com/people/96914766@N02/"
+    [[params.links]]
+        icon = "500px"
+        title = "500px"
+        url = "https://500px.com/chaspy"
+    [params.colors]
+        background = "#81c6ff"
+        foreground = "#edf7ff"
+        hover = "#ffba82"
